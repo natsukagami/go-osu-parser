@@ -1,0 +1,6233 @@
+{
+	"Artist": "CHiCO[ACE]",
+	"ArtistUnicode": "",
+	"Title": "Wake Up World",
+	"TitleUnicode": "",
+	"AudioFilename": "01 Wake Up World.mp3",
+	"Creator": "blissfulyoshi",
+	"Source": "Luminous Arc 3: Eyes",
+	"Tags": [
+		"LA3"
+	],
+	"Version": "Hard",
+	"BeatmapID": 0,
+	"BeatmapSetID": 0,
+	"FileFormat": "v8",
+	"Mode": 0,
+	"AudioLeadIn": 1500,
+	"SampleSet": "Soft",
+	"BgFilename": "luminous arc 3.jpg",
+	"Countdown": 0,
+	"BeatDivisor": 4,
+	"StackLeniency": 0.7,
+	"DistanceSpacing": 0,
+	"GridSize": 8,
+	"LetterboxInBreaks": true,
+	"PreviewTime": 52919,
+	"CircleSize": 4,
+	"HPDrainRate": 6,
+	"OverallDifficulty": 7,
+	"ApproachRate": 7,
+	"NbCircles": 60,
+	"NbSliders": 93,
+	"NbSpinners": 2,
+	"TotalTime": 89,
+	"DrainingTime": 88,
+	"MaxCombo": 270,
+	"BpmMin": 0,
+	"BpmMax": 156,
+	"SliderMultiplier": 1.8,
+	"SliderTickRate": 1,
+	"TimingPoints": [
+		{
+			"Offset": 827,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 70,
+			"TimingChange": true,
+			"KiaiTimeActive": false
+		},
+		{
+			"Offset": 46019,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 80,
+			"TimingChange": false,
+			"KiaiTimeActive": false
+		},
+		{
+			"Offset": 47557,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 90,
+			"TimingChange": false,
+			"KiaiTimeActive": false
+		},
+		{
+			"Offset": 49096,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 100,
+			"TimingChange": false,
+			"KiaiTimeActive": false
+		},
+		{
+			"Offset": 49865,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 10,
+			"TimingChange": false,
+			"KiaiTimeActive": false
+		},
+		{
+			"Offset": 52557,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 100,
+			"TimingChange": false,
+			"KiaiTimeActive": false
+		},
+		{
+			"Offset": 53134,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 100,
+			"TimingChange": false,
+			"KiaiTimeActive": true
+		},
+		{
+			"Offset": 78134,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 100,
+			"TimingChange": false,
+			"KiaiTimeActive": false
+		},
+		{
+			"Offset": 88327,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 50,
+			"TimingChange": false,
+			"KiaiTimeActive": false
+		},
+		{
+			"Offset": 89961,
+			"BeatLength": 384.615384615385,
+			"Velocity": 1,
+			"Bpm": 156,
+			"TimingSignature": 4,
+			"SampleSetID": 2,
+			"CustomSampleIndex": 0,
+			"SampleVolume": 20,
+			"TimingChange": false,
+			"KiaiTimeActive": false
+		}
+	],
+	"HitObjects": [
+		{
+			"ObjectName": "circle",
+			"StartTime": 442,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 64,
+				"Y": 40
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 826,
+			"EndTime": 0,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 80,
+					"Y": 184
+				},
+				{
+					"X": 96,
+					"Y": 328
+				},
+				{
+					"X": 256,
+					"Y": 296
+				}
+			],
+			"Duration": 0,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 192,
+				"Y": 302
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 80,
+				"Y": 184
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 1403,
+			"EndTime": 1788,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 200,
+					"Y": 232
+				},
+				{
+					"X": 312,
+					"Y": 208
+				},
+				{
+					"X": 328,
+					"Y": 88
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 323,
+				"Y": 115
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 200,
+				"Y": 232
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 1980,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 392,
+				"Y": 112
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 2365,
+			"EndTime": 3519,
+			"RepeatCount": 2,
+			"PixelLength": 270,
+			"Points": [
+				{
+					"X": 496,
+					"Y": 208
+				},
+				{
+					"X": 480,
+					"Y": 376
+				},
+				{
+					"X": 264,
+					"Y": 368
+				}
+			],
+			"Duration": 1154,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 312,
+				"Y": 367
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 496,
+				"Y": 208
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 3903,
+			"EndTime": 4480,
+			"RepeatCount": 1,
+			"PixelLength": 270,
+			"Points": [
+				{
+					"X": 448,
+					"Y": 32
+				},
+				{
+					"X": 248,
+					"Y": 240
+				}
+			],
+			"Duration": 577,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 261,
+				"Y": 227
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 448,
+				"Y": 32
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 4672,
+			"EndTime": 5057,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 200,
+					"Y": 192
+				},
+				{
+					"X": 48,
+					"Y": 48
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 69,
+				"Y": 68
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 200,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 5441,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 32,
+				"Y": 208
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 5826,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 88,
+				"Y": 336
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 6211,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 232,
+				"Y": 352
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 6595,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 368,
+				"Y": 312
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 6980,
+			"EndTime": 7365,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 472,
+					"Y": 216
+				},
+				{
+					"X": 528,
+					"Y": 120
+				},
+				{
+					"X": 464,
+					"Y": 40
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 470,
+				"Y": 47
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 472,
+				"Y": 216
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 7557,
+			"EndTime": 7942,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 400,
+					"Y": 16
+				},
+				{
+					"X": 336,
+					"Y": 104
+				},
+				{
+					"X": 424,
+					"Y": 208
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 405,
+				"Y": 183
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 400,
+				"Y": 16
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 8134,
+			"EndTime": 8327,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 472,
+					"Y": 216
+				},
+				{
+					"X": 480,
+					"Y": 272
+				},
+				{
+					"X": 400,
+					"Y": 328
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 439,
+				"Y": 296
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 472,
+				"Y": 216
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 8518,
+			"EndTime": 9288,
+			"RepeatCount": 1,
+			"PixelLength": 360,
+			"Points": [
+				{
+					"X": 376,
+					"Y": 336
+				},
+				{
+					"X": 264,
+					"Y": 376
+				},
+				{
+					"X": 152,
+					"Y": 336
+				},
+				{
+					"X": 112,
+					"Y": 200
+				},
+				{
+					"X": 200,
+					"Y": 128
+				}
+			],
+			"Duration": 770,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 175,
+				"Y": 155
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 376,
+				"Y": 336
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 9672,
+			"EndTime": 9865,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 240,
+					"Y": 24
+				},
+				{
+					"X": 320,
+					"Y": 80
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 314,
+				"Y": 76
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 240,
+				"Y": 24
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 10057,
+			"EndTime": 10442,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 384,
+					"Y": 72
+				},
+				{
+					"X": 488,
+					"Y": 104
+				},
+				{
+					"X": 512,
+					"Y": 232
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 503,
+				"Y": 196
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 384,
+				"Y": 72
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 10826,
+			"EndTime": 11211,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 504,
+					"Y": 344
+				},
+				{
+					"X": 384,
+					"Y": 304
+				},
+				{
+					"X": 392,
+					"Y": 176
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 393,
+				"Y": 216
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 504,
+				"Y": 344
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 11595,
+			"EndTime": 11788,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 384,
+					"Y": 72
+				},
+				{
+					"X": 312,
+					"Y": 64
+				},
+				{
+					"X": 280,
+					"Y": 144
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 304,
+				"Y": 103
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 384,
+				"Y": 72
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 11980,
+			"EndTime": 12173,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 240,
+					"Y": 136
+				},
+				{
+					"X": 176,
+					"Y": 128
+				},
+				{
+					"X": 176,
+					"Y": 40
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 180,
+				"Y": 78
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 240,
+				"Y": 136
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 12365,
+			"EndTime": 12558,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 128,
+					"Y": 32
+				},
+				{
+					"X": 72,
+					"Y": 40
+				},
+				{
+					"X": 56,
+					"Y": 112
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 63,
+				"Y": 88
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 128,
+				"Y": 32
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 12749,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 64,
+				"Y": 160
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 13134,
+			"EndTime": 13519,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 128,
+					"Y": 288
+				},
+				{
+					"X": 192,
+					"Y": 384
+				},
+				{
+					"X": 352,
+					"Y": 344
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 285,
+				"Y": 355
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 128,
+				"Y": 288
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 13711,
+			"EndTime": 14096,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 344,
+					"Y": 320
+				},
+				{
+					"X": 264,
+					"Y": 224
+				},
+				{
+					"X": 152,
+					"Y": 256
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 187,
+				"Y": 249
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 344,
+				"Y": 320
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 14288,
+			"EndTime": 14481,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 128,
+					"Y": 288
+				},
+				{
+					"X": 64,
+					"Y": 280
+				},
+				{
+					"X": 64,
+					"Y": 216
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 65,
+				"Y": 234
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 128,
+				"Y": 288
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 14672,
+			"EndTime": 15442,
+			"RepeatCount": 1,
+			"PixelLength": 360,
+			"Points": [
+				{
+					"X": 64,
+					"Y": 160
+				},
+				{
+					"X": 112,
+					"Y": 8
+				},
+				{
+					"X": 288,
+					"Y": 8
+				},
+				{
+					"X": 320,
+					"Y": 192
+				}
+			],
+			"Duration": 770,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 314,
+				"Y": 164
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 64,
+				"Y": 160
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 15826,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 16211,
+			"EndTime": 16596,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 112,
+					"Y": 296
+				},
+				{
+					"X": 224,
+					"Y": 136
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 215,
+				"Y": 149
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 112,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 16980,
+			"EndTime": 17365,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 400,
+					"Y": 296
+				},
+				{
+					"X": 288,
+					"Y": 136
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 297,
+				"Y": 149
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 400,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 17749,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 392,
+				"Y": 40
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 18134,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 88
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 18518,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 120,
+				"Y": 40
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 18903,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 24,
+				"Y": 144
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 19288,
+			"EndTime": 19673,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 80,
+					"Y": 280
+				},
+				{
+					"X": 104,
+					"Y": 344
+				},
+				{
+					"X": 200,
+					"Y": 352
+				},
+				{
+					"X": 224,
+					"Y": 264
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 218,
+				"Y": 280
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 80,
+				"Y": 280
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 19865,
+			"EndTime": 20250,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 296,
+					"Y": 280
+				},
+				{
+					"X": 320,
+					"Y": 344
+				},
+				{
+					"X": 416,
+					"Y": 352
+				},
+				{
+					"X": 440,
+					"Y": 264
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 434,
+				"Y": 280
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 296,
+				"Y": 280
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 20442,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 424,
+				"Y": 208
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 20826,
+			"EndTime": 21596,
+			"RepeatCount": 2,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 320,
+					"Y": 104
+				},
+				{
+					"X": 304,
+					"Y": 32
+				},
+				{
+					"X": 192,
+					"Y": 32
+				},
+				{
+					"X": 192,
+					"Y": 120
+				}
+			],
+			"Duration": 770,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 193,
+				"Y": 106
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 320,
+				"Y": 104
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 21980,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 232
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 22365,
+			"EndTime": 22750,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 184,
+					"Y": 360
+				},
+				{
+					"X": 8,
+					"Y": 288
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 17,
+				"Y": 292
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 184,
+				"Y": 360
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 23134,
+			"EndTime": 23519,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 328,
+					"Y": 360
+				},
+				{
+					"X": 504,
+					"Y": 288
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 495,
+				"Y": 292
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 328,
+				"Y": 360
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 23903,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 376,
+				"Y": 208
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 24288,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 288
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 24672,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 136,
+				"Y": 208
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 24865,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 176,
+				"Y": 144
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 24961,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 192,
+				"Y": 112
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 25057,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 224,
+				"Y": 96
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 25153,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 88
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 25249,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 288,
+				"Y": 96
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 25345,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 320,
+				"Y": 112
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 25442,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"finish"
+			],
+			"Position": {
+				"X": 336,
+				"Y": 144
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 26211,
+			"EndTime": 26404,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 48,
+					"Y": 216
+				},
+				{
+					"X": 40,
+					"Y": 272
+				},
+				{
+					"X": 88,
+					"Y": 304
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 78,
+				"Y": 296
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 48,
+				"Y": 216
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 26595,
+			"EndTime": 26788,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 152,
+					"Y": 296
+				},
+				{
+					"X": 168,
+					"Y": 232
+				},
+				{
+					"X": 112,
+					"Y": 216
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 123,
+				"Y": 220
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 152,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 26980,
+			"EndTime": 27173,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 48,
+					"Y": 216
+				},
+				{
+					"X": 24,
+					"Y": 152
+				},
+				{
+					"X": 88,
+					"Y": 112
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 62,
+				"Y": 132
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 48,
+				"Y": 216
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 27365,
+			"EndTime": 27558,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 120,
+					"Y": 88
+				},
+				{
+					"X": 168,
+					"Y": 40
+				},
+				{
+					"X": 232,
+					"Y": 104
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 202,
+				"Y": 79
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 120,
+				"Y": 88
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 27749,
+			"EndTime": 27942,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 248,
+					"Y": 136
+				},
+				{
+					"X": 272,
+					"Y": 192
+				},
+				{
+					"X": 344,
+					"Y": 192
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 316,
+				"Y": 189
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 248,
+				"Y": 136
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 28134,
+			"EndTime": 28327,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 384,
+					"Y": 192
+				},
+				{
+					"X": 456,
+					"Y": 192
+				},
+				{
+					"X": 432,
+					"Y": 264
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 437,
+				"Y": 245
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 384,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 28518,
+			"EndTime": 28711,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 440,
+					"Y": 320
+				},
+				{
+					"X": 368,
+					"Y": 320
+				},
+				{
+					"X": 360,
+					"Y": 256
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 366,
+				"Y": 280
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 440,
+				"Y": 320
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 28903,
+			"EndTime": 29096,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 256,
+					"Y": 320
+				},
+				{
+					"X": 256,
+					"Y": 224
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 256,
+				"Y": 230
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 320
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 29288,
+			"EndTime": 29673,
+			"RepeatCount": 2,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 146,
+					"Y": 279
+				},
+				{
+					"X": 128,
+					"Y": 328
+				},
+				{
+					"X": 72,
+					"Y": 320
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 75,
+				"Y": 320
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 146,
+				"Y": 279
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 30057,
+			"EndTime": 30442,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 40,
+					"Y": 120
+				},
+				{
+					"X": 256,
+					"Y": 184
+				}
+			],
+			"Duration": 385,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 213,
+				"Y": 171
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 40,
+				"Y": 120
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 30826,
+			"EndTime": 31596,
+			"RepeatCount": 2,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 472,
+					"Y": 120
+				},
+				{
+					"X": 256,
+					"Y": 184
+				}
+			],
+			"Duration": 770,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 299,
+				"Y": 171
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"finish"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 472,
+				"Y": 120
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 32365,
+			"EndTime": 32558,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 64,
+					"Y": 192
+				},
+				{
+					"X": 64,
+					"Y": 88
+				}
+			],
+			"Duration": 193,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 64,
+				"Y": 102
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 64,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 32749,
+			"EndTime": 32942,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 128,
+					"Y": 192
+				},
+				{
+					"X": 128,
+					"Y": 304
+				}
+			],
+			"Duration": 193,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 128,
+				"Y": 282
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 128,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 33134,
+			"EndTime": 33327,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 192,
+					"Y": 192
+				},
+				{
+					"X": 192,
+					"Y": 88
+				}
+			],
+			"Duration": 193,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 192,
+				"Y": 102
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 192,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 33518,
+			"EndTime": 33711,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 256,
+					"Y": 192
+				},
+				{
+					"X": 256,
+					"Y": 288
+				}
+			],
+			"Duration": 193,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 256,
+				"Y": 282
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 33903,
+			"EndTime": 34096,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 320,
+					"Y": 192
+				},
+				{
+					"X": 320,
+					"Y": 80
+				}
+			],
+			"Duration": 193,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 320,
+				"Y": 102
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 320,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 34288,
+			"EndTime": 34481,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 384,
+					"Y": 192
+				},
+				{
+					"X": 384,
+					"Y": 296
+				}
+			],
+			"Duration": 193,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 384,
+				"Y": 282
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 384,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 34672,
+			"EndTime": 35057,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 448,
+					"Y": 192
+				},
+				{
+					"X": 496,
+					"Y": 16
+				}
+			],
+			"Duration": 385,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 495,
+				"Y": 18
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 448,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 35442,
+			"EndTime": 35827,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 256,
+					"Y": 192
+				},
+				{
+					"X": 256,
+					"Y": 376
+				}
+			],
+			"Duration": 385,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 256,
+				"Y": 372
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 36211,
+			"EndTime": 36596,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 64,
+					"Y": 192
+				},
+				{
+					"X": 16,
+					"Y": 16
+				}
+			],
+			"Duration": 385,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 17,
+				"Y": 18
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 64,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 36980,
+			"EndTime": 37365,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 200,
+					"Y": 120
+				},
+				{
+					"X": 256,
+					"Y": 192
+				},
+				{
+					"X": 256,
+					"Y": 192
+				},
+				{
+					"X": 320,
+					"Y": 112
+				}
+			],
+			"Duration": 385,
+			"CurveType": "linear",
+			"EndPosition": {
+				"X": 311,
+				"Y": 262
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 200,
+				"Y": 120
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 38134,
+			"EndTime": 38327,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 152,
+					"Y": 344
+				},
+				{
+					"X": 80,
+					"Y": 272
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 88,
+				"Y": 280
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 152,
+				"Y": 344
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 38518,
+			"EndTime": 38711,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 216,
+					"Y": 296
+				},
+				{
+					"X": 192,
+					"Y": 200
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 194,
+				"Y": 209
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 216,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 38903,
+			"EndTime": 39096,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 296,
+					"Y": 296
+				},
+				{
+					"X": 320,
+					"Y": 200
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 318,
+				"Y": 209
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 296,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 39288,
+			"EndTime": 39673,
+			"RepeatCount": 2,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 360,
+					"Y": 344
+				},
+				{
+					"X": 432,
+					"Y": 272
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 424,
+				"Y": 280
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 360,
+				"Y": 344
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 40057,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 112,
+				"Y": 168
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 40442,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"clap"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 64
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 40826,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 400,
+				"Y": 168
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 41595,
+			"EndTime": 41980,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 120,
+					"Y": 224
+				},
+				{
+					"X": 96,
+					"Y": 360
+				},
+				{
+					"X": 288,
+					"Y": 360
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 212,
+				"Y": 353
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 120,
+				"Y": 224
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 42365,
+			"EndTime": 42750,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 392,
+					"Y": 224
+				},
+				{
+					"X": 416,
+					"Y": 360
+				},
+				{
+					"X": 224,
+					"Y": 360
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 300,
+				"Y": 353
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 392,
+				"Y": 224
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 43134,
+			"EndTime": 43904,
+			"RepeatCount": 1,
+			"PixelLength": 360,
+			"Points": [
+				{
+					"X": 120,
+					"Y": 224
+				},
+				{
+					"X": 160,
+					"Y": 88
+				},
+				{
+					"X": 376,
+					"Y": 96
+				},
+				{
+					"X": 400,
+					"Y": 248
+				}
+			],
+			"Duration": 770,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 394,
+				"Y": 224
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 120,
+				"Y": 224
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 44288,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"clap"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 344
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 44672,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 48,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 45057,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"clap"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 40
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 45442,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 464,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 46211,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 24,
+				"Y": 264
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 46595,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"clap"
+			],
+			"Position": {
+				"X": 80,
+				"Y": 96
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 46980,
+			"EndTime": 47365,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 136,
+					"Y": 264
+				},
+				{
+					"X": 128,
+					"Y": 368
+				},
+				{
+					"X": 264,
+					"Y": 360
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 255,
+				"Y": 360
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 136,
+				"Y": 264
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 47749,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 488,
+				"Y": 264
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 48133,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"clap"
+			],
+			"Position": {
+				"X": 432,
+				"Y": 96
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 48518,
+			"EndTime": 48903,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 376,
+					"Y": 264
+				},
+				{
+					"X": 384,
+					"Y": 368
+				},
+				{
+					"X": 248,
+					"Y": 360
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 257,
+				"Y": 360
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 376,
+				"Y": 264
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 49288,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 152,
+				"Y": 64
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 49672,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"clap"
+			],
+			"Position": {
+				"X": 360,
+				"Y": 64
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "spinner",
+			"StartTime": 50056,
+			"EndTime": 52365,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 52749,
+			"EndTime": 52942,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 24,
+					"Y": 72
+				},
+				{
+					"X": 0,
+					"Y": 128
+				},
+				{
+					"X": 80,
+					"Y": 176
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 47,
+				"Y": 152
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 24,
+				"Y": 72
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 53134,
+			"EndTime": 53519,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 24,
+					"Y": 72
+				},
+				{
+					"X": 104,
+					"Y": -24
+				},
+				{
+					"X": 192,
+					"Y": 88
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 176,
+				"Y": 69
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"finish"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 24,
+				"Y": 72
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 53711,
+			"EndTime": 54096,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 248,
+					"Y": 128
+				},
+				{
+					"X": 248,
+					"Y": 312
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 248,
+				"Y": 308
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 248,
+				"Y": 128
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 54288,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 160,
+				"Y": 280
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 54672,
+			"EndTime": 55442,
+			"RepeatCount": 1,
+			"PixelLength": 360,
+			"Points": [
+				{
+					"X": 248,
+					"Y": 128
+				},
+				{
+					"X": 496,
+					"Y": 104
+				},
+				{
+					"X": 496,
+					"Y": 384
+				}
+			],
+			"Duration": 770,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 493,
+				"Y": 326
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 248,
+				"Y": 128
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 55826,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 328,
+				"Y": 256
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 56211,
+			"EndTime": 56596,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 144,
+					"Y": 256
+				},
+				{
+					"X": 32,
+					"Y": 224
+				},
+				{
+					"X": 32,
+					"Y": 96
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 34,
+				"Y": 128
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"finish"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 144,
+				"Y": 256
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 56788,
+			"EndTime": 57173,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 88,
+					"Y": 56
+				},
+				{
+					"X": 200,
+					"Y": 80
+				},
+				{
+					"X": 192,
+					"Y": 200
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 193,
+				"Y": 182
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 88,
+				"Y": 56
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 57365,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 144,
+				"Y": 256
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 57749,
+			"EndTime": 58519,
+			"RepeatCount": 1,
+			"PixelLength": 360,
+			"Points": [
+				{
+					"X": 312,
+					"Y": 312
+				},
+				{
+					"X": 448,
+					"Y": 240
+				},
+				{
+					"X": 440,
+					"Y": 104
+				},
+				{
+					"X": 296,
+					"Y": 16
+				}
+			],
+			"Duration": 770,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 313,
+				"Y": 27
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 312,
+				"Y": 312
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 58903,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 168,
+				"Y": 128
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 59288,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 96,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 59672,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"clap"
+			],
+			"Position": {
+				"X": 24,
+				"Y": 128
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 60442,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 344,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 60827,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 416,
+				"Y": 128
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 61211,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"clap"
+			],
+			"Position": {
+				"X": 488,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 61980,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 32
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 62365,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 184,
+				"Y": 200
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 62557,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 256
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 62749,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 328,
+				"Y": 200
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 63134,
+			"EndTime": 63519,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 480,
+					"Y": 264
+				},
+				{
+					"X": 456,
+					"Y": 376
+				},
+				{
+					"X": 272,
+					"Y": 368
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 347,
+				"Y": 365
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 480,
+				"Y": 264
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 63903,
+			"EndTime": 64288,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 165,
+					"Y": 365
+				},
+				{
+					"X": 40,
+					"Y": 352
+				},
+				{
+					"X": 32,
+					"Y": 256
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 33,
+				"Y": 265
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 165,
+				"Y": 365
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 65057,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 360,
+				"Y": 64
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 65442,
+			"EndTime": 65827,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 360,
+					"Y": 248
+				},
+				{
+					"X": 360,
+					"Y": 368
+				},
+				{
+					"X": 224,
+					"Y": 368
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 252,
+				"Y": 367
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"finish"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 360,
+				"Y": 248
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 66018,
+			"EndTime": 66403,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 360,
+					"Y": 248
+				},
+				{
+					"X": 480,
+					"Y": 248
+				},
+				{
+					"X": 480,
+					"Y": 384
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 479,
+				"Y": 356
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 360,
+				"Y": 248
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 66788,
+			"EndTime": 67750,
+			"RepeatCount": 1,
+			"PixelLength": 450,
+			"Points": [
+				{
+					"X": 360,
+					"Y": 64
+				},
+				{
+					"X": 112,
+					"Y": 64
+				},
+				{
+					"X": 112,
+					"Y": 248
+				},
+				{
+					"X": 376,
+					"Y": 248
+				}
+			],
+			"Duration": 962,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 363,
+				"Y": 248
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 360,
+				"Y": 64
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 68134,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 168,
+				"Y": 48
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 68518,
+			"EndTime": 68903,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 24,
+					"Y": 152
+				},
+				{
+					"X": 216,
+					"Y": 256
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 182,
+				"Y": 238
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"finish"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 24,
+				"Y": 152
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 69095,
+			"EndTime": 69480,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 96,
+					"Y": 272
+				},
+				{
+					"X": 288,
+					"Y": 376
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 254,
+				"Y": 358
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 96,
+				"Y": 272
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 69865,
+			"EndTime": 70827,
+			"RepeatCount": 1,
+			"PixelLength": 450,
+			"Points": [
+				{
+					"X": 432,
+					"Y": 328
+				},
+				{
+					"X": 464,
+					"Y": 40
+				},
+				{
+					"X": 128,
+					"Y": 48
+				}
+			],
+			"Duration": 962,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 168,
+				"Y": 48
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 432,
+				"Y": 328
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 71211,
+			"EndTime": 71404,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 64,
+					"Y": 192
+				},
+				{
+					"X": -16,
+					"Y": 112
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 0,
+				"Y": 128
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 64,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 71595,
+			"EndTime": 71788,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 224,
+					"Y": 192
+				},
+				{
+					"X": 304,
+					"Y": 112
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 288,
+				"Y": 128
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 224,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 71980,
+			"EndTime": 72173,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 144,
+					"Y": 288
+				},
+				{
+					"X": 144,
+					"Y": 384
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 144,
+				"Y": 378
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 144,
+				"Y": 288
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 72749,
+			"EndTime": 72942,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 511,
+					"Y": 255
+				},
+				{
+					"X": 448,
+					"Y": 192
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 447,
+				"Y": 191
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 511,
+				"Y": 255
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 73133,
+			"EndTime": 73326,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 224,
+					"Y": 255
+				},
+				{
+					"X": 288,
+					"Y": 192
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 288,
+				"Y": 192
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 224,
+				"Y": 255
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 73518,
+			"EndTime": 73711,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 368,
+					"Y": 6
+				},
+				{
+					"X": 368,
+					"Y": 96
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 368,
+				"Y": 96
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 368,
+				"Y": 6
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 74287,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 224,
+				"Y": 256
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 74480,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 176,
+				"Y": 328
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 74672,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 88,
+				"Y": 352
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 75057,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 0,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 75249,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 80,
+				"Y": 160
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 75633,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 192,
+				"Y": 24
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "spinner",
+			"StartTime": 76018,
+			"EndTime": 77749,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 192
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 78134,
+			"EndTime": 78327,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 120,
+					"Y": 32
+				},
+				{
+					"X": 32,
+					"Y": 112
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 53,
+				"Y": 93
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 120,
+				"Y": 32
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 78518,
+			"EndTime": 78711,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 152,
+					"Y": 160
+				},
+				{
+					"X": 208,
+					"Y": 256
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 197,
+				"Y": 238
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 152,
+				"Y": 160
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 78903,
+			"EndTime": 79096,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 312,
+					"Y": 272
+				},
+				{
+					"X": 264,
+					"Y": 368
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 272,
+				"Y": 352
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 312,
+				"Y": 272
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 79288,
+			"EndTime": 79481,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 384,
+					"Y": 336
+				},
+				{
+					"X": 480,
+					"Y": 304
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 469,
+				"Y": 308
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 384,
+				"Y": 336
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 79672,
+			"EndTime": 79865,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 416,
+					"Y": 200
+				},
+				{
+					"X": 488,
+					"Y": 80
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 462,
+				"Y": 123
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 416,
+				"Y": 200
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 80057,
+			"EndTime": 80250,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 344,
+					"Y": 112
+				},
+				{
+					"X": 272,
+					"Y": 40
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 280,
+				"Y": 48
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 344,
+				"Y": 112
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 80442,
+			"EndTime": 81596,
+			"RepeatCount": 3,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 264,
+					"Y": 168
+				},
+				{
+					"X": 168,
+					"Y": 120
+				},
+				{
+					"X": 80,
+					"Y": 216
+				}
+			],
+			"Duration": 1154,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 99,
+				"Y": 197
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"finish"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"finish"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 264,
+				"Y": 168
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 82365,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": true,
+			"SoundTypes": [
+				"whistle"
+			],
+			"Position": {
+				"X": 40,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "circle",
+			"StartTime": 82749,
+			"EndTime": 0,
+			"RepeatCount": 0,
+			"PixelLength": 0,
+			"Points": null,
+			"Duration": 0,
+			"CurveType": "",
+			"EndPosition": {
+				"X": 0,
+				"Y": 0
+			},
+			"Edges": [],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 40
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 83133,
+			"EndTime": 83903,
+			"RepeatCount": 2,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 472,
+					"Y": 296
+				},
+				{
+					"X": 472,
+					"Y": 368
+				},
+				{
+					"X": 344,
+					"Y": 376
+				},
+				{
+					"X": 344,
+					"Y": 264
+				}
+			],
+			"Duration": 770,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 348,
+				"Y": 295
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"finish"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 472,
+				"Y": 296
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 84288,
+			"EndTime": 84481,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 144,
+					"Y": 56
+				},
+				{
+					"X": 64,
+					"Y": 144
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 83,
+				"Y": 123
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 144,
+				"Y": 56
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 84672,
+			"EndTime": 84865,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 104,
+					"Y": 256
+				},
+				{
+					"X": 168,
+					"Y": 184
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 164,
+				"Y": 189
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"Normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 104,
+				"Y": 256
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 85057,
+			"EndTime": 85250,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 256,
+					"Y": 288
+				},
+				{
+					"X": 376,
+					"Y": 336
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 340,
+				"Y": 321
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 288
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 85442,
+			"EndTime": 86981,
+			"RepeatCount": 2,
+			"PixelLength": 360,
+			"Points": [
+				{
+					"X": 464,
+					"Y": 264
+				},
+				{
+					"X": 224,
+					"Y": 264
+				},
+				{
+					"X": 248,
+					"Y": 8
+				}
+			],
+			"Duration": 1539,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 246,
+				"Y": 41
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"whistle"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 464,
+				"Y": 264
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 87749,
+			"EndTime": 88134,
+			"RepeatCount": 1,
+			"PixelLength": 180,
+			"Points": [
+				{
+					"X": 112,
+					"Y": 344
+				},
+				{
+					"X": 112,
+					"Y": 144
+				}
+			],
+			"Duration": 385,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 112,
+				"Y": 164
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 112,
+				"Y": 344
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 88518,
+			"EndTime": 88711,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 256,
+					"Y": 64
+				},
+				{
+					"X": 352,
+					"Y": 16
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 336,
+				"Y": 24
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": true,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 64
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 88903,
+			"EndTime": 89096,
+			"RepeatCount": 1,
+			"PixelLength": 90,
+			"Points": [
+				{
+					"X": 384,
+					"Y": 160
+				},
+				{
+					"X": 488,
+					"Y": 160
+				}
+			],
+			"Duration": 193,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 474,
+				"Y": 160
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 384,
+				"Y": 160
+			},
+			"Additions": null
+		},
+		{
+			"ObjectName": "slider",
+			"StartTime": 89288,
+			"EndTime": 89962,
+			"RepeatCount": 1,
+			"PixelLength": 315,
+			"Points": [
+				{
+					"X": 256,
+					"Y": 256
+				},
+				{
+					"X": 256,
+					"Y": 384
+				},
+				{
+					"X": 520,
+					"Y": 368
+				}
+			],
+			"Duration": 674,
+			"CurveType": "bezier",
+			"EndPosition": {
+				"X": 513,
+				"Y": 368
+			},
+			"Edges": [
+				{
+					"SoundTypes": [
+						"clap"
+					],
+					"Additions": null
+				},
+				{
+					"SoundTypes": [
+						"normal"
+					],
+					"Additions": null
+				}
+			],
+			"NewCombo": false,
+			"SoundTypes": [
+				"normal"
+			],
+			"Position": {
+				"X": 256,
+				"Y": 256
+			},
+			"Additions": null
+		}
+	],
+	"BreakTimes": [],
+	"OtherAttributes": {
+		"Bookmarks": "71149",
+		"Combo1": "34,79,255",
+		"Combo2": "255,166,17",
+		"Combo3": "91,0,204",
+		"Combo4": "255,62,187"
+	}
+}
