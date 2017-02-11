@@ -53,6 +53,10 @@ func getSliderEndPoint(sliderType string, sliderLength float64, points []Point) 
 			p2 = points[1]
 			p3 = points[2]
 		)
+		if (p1.Y == p2.Y && p2.Y == p3.Y) || (p1.X == p2.X && p2.X == p3.X) {
+			// 3 aligned points have no curve circle
+			return p3
+		}
 		circumCircle := getCircumCircle(p1, p2, p3)
 		radians := sliderLength / circumCircle.R
 		if isLeft(p1, p2, p3) {

@@ -139,7 +139,7 @@ func (b *Beatmap) parseHitObject(line string) (err error) {
 		/**
 		 * Calculate slider duration
 		 */
-		timing := b.getTimingPoint(h.StartTime)
+		timing := b.getTimingPoint(float64(h.StartTime))
 		if timing != nil {
 			pxPerBeat := b.SliderMultiplier * 100 * timing.Velocity
 			beatsNumber := h.PixelLength * float64(h.RepeatCount) / pxPerBeat

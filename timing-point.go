@@ -9,7 +9,7 @@ import (
 
 // TimingPoint is an osu! timing point.
 type TimingPoint struct {
-	Offset            int     `json:"offset"`
+	Offset            float64 `json:"offset"`
 	BeatLength        float64 `json:"beatLength"`
 	Velocity          float64 `json:"velocity"`
 	Bpm               float64 `json:"bpm"`
@@ -32,7 +32,7 @@ func sortTimingPoints(b []TimingPoint) {
 }
 
 // Gets the timing point affecting a specific offset.
-func (b Beatmap) getTimingPoint(offset int) *TimingPoint {
+func (b Beatmap) getTimingPoint(offset float64) *TimingPoint {
 	for i := len(b.TimingPoints) - 1; i >= 0; i-- {
 		if b.TimingPoints[i].Offset <= offset {
 			return &b.TimingPoints[i]
@@ -45,35 +45,50 @@ func (b Beatmap) getTimingPoint(offset int) *TimingPoint {
 func (b *Beatmap) parseTimingPoint(line string) (err error) {
 	members := strings.Split(line, ",")
 	p := TimingPoint{}
-	if p.Offset, err = strconv.Atoi(members[0]); err != nil {
+	if p.Offset, err = strconv.ParseFloat(members[0], 64); err != nil {
 		return
 	}
 	if p.BeatLength, err = strconv.ParseFloat(members[1], 64); err != nil {
 		p.BeatLength = 0
 	}
 	p.Velocity = 1
-	if p.TimingSignature, err = strconv.Atoi(members[2]); err != nil {
-		return
+	if len(members) > 2 {
+		if p.TimingSignature, err = strconv.Atoi(members[2]); err != nil {
+			return
+		}
 	}
-	if p.SampleSetID, err = strconv.Atoi(members[3]); err != nil {
-		return
+	if len(members) > 3 {
+		if p.SampleSetID, err = strconv.Atoi(members[3]); err != nil {
+			return
+		}
 	}
-	if p.CustomSampleIndex, err = strconv.Atoi(members[4]); err != nil {
-		return
+	if len(members) > 4 {
+		if p.CustomSampleIndex, err = strconv.Atoi(members[4]); err != nil {
+			return
+		}
 	}
-	if p.SampleVolume, err = strconv.Atoi(members[5]); err != nil {
-		return
+	if len(members) > 5 {
+		if p.SampleVolume, err = strconv.Atoi(members[5]); err != nil {
+			return
+		}
+	} else {
+		p.SampleVolume = 100
 	}
-	x, err := strconv.Atoi(members[6])
-	if err != nil {
-		return
+	var x int
+	if len(members) > 6 {
+		x, err = strconv.Atoi(members[6])
+		if err != nil {
+			return
+		}
+		p.TimingChange = (x == 1)
 	}
-	p.TimingChange = (x == 1)
-	x, err = strconv.Atoi(members[7])
-	if err != nil {
-		return
+	if len(members) > 7 {
+		x, err = strconv.Atoi(members[7])
+		if err != nil {
+			return
+		}
+		p.KiaiTimeActive = (x == 1)
 	}
-	p.KiaiTimeActive = (x == 1)
 	if p.BeatLength != 0 {
 		if p.BeatLength > 0 {
 			p.Bpm = math.Trunc(60000.0/p.BeatLength + 0.5)

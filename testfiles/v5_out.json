@@ -1,0 +1,5140 @@
+{
+	"Artist": "Dr.Flowershirts",
+	"ArtistUnicode": "",
+	"Title": "Canon (O2 version)+",
+	"TitleUnicode": "",
+	"AudioFilename": "Canon.mp3",
+	"Creator": "osu_CN_yaya",
+	"Source": "o2jam",
+	"Tags": [
+		"o2jam"
+	],
+	"Version": "Easy",
+	"BeatmapID": 0,
+	"BeatmapSetID": 0,
+	"fileFormat": "v5",
+	"Mode": 0,
+	"AudioLeadIn": 1007,
+	"SampleSet": "Soft",
+	"bgFilename": "1055.jpg",
+	"Countdown": 1,
+	"BeatDivisor": 0,
+	"StackLeniency": 0.7,
+	"DistanceSpacing": 0,
+	"GridSize": 0,
+	"LetterboxInBreaks": true,
+	"PreviewTime": -1,
+	"CircleSize": 3,
+	"HPDrainRate": 2,
+	"OverallDifficulty": 4,
+	"ApproachRate": 0,
+	"nbCircles": 90,
+	"nbSliders": 53,
+	"nbSpinners": 2,
+	"totalTime": 107,
+	"drainingTime": 106,
+	"maxCombo": 250,
+	"bpmMin": 0,
+	"bpmMax": 162,
+	"SliderMultiplier": 1.6,
+	"SliderTickRate": 1,
+	"timingPoints": [
+		{
+			"offset": 930,
+			"beatLength": 370.37037037037,
+			"velocity": 1,
+			"bpm": 162,
+			"timingSignature": 4,
+			"sampleSetID": 2,
+			"customSampleIndex": 0,
+			"sampleVolume": 100,
+			"timingChange": true,
+			"kiaiTimeActive": false
+		}
+	],
+	"hitObjects": [
+		{
+			"objectName": "circle",
+			"startTime": 930,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				56,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 1300,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				128,
+				216
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 1670,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				160,
+				288
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 2041,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				240,
+				264
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 2411,
+			"endTime": 3523,
+			"repeatCount": 1,
+			"pixelLength": 480,
+			"points": [
+				[
+					312,
+					240
+				],
+				[
+					400,
+					160
+				],
+				[
+					368,
+					48
+				],
+				[
+					248,
+					8
+				],
+				[
+					168,
+					40
+				],
+				[
+					112,
+					128
+				],
+				[
+					144,
+					200
+				],
+				[
+					224,
+					248
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				194,
+				226
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				312,
+				240
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 3892,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				240,
+				296
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 4263,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				288,
+				232
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 4633,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				240,
+				168
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 5004,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				296,
+				112
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 5374,
+			"endTime": 6486,
+			"repeatCount": 1,
+			"pixelLength": 480,
+			"points": [
+				[
+					240,
+					48
+				],
+				[
+					160,
+					-40
+				],
+				[
+					48,
+					-8
+				],
+				[
+					8,
+					112
+				],
+				[
+					40,
+					192
+				],
+				[
+					128,
+					248
+				],
+				[
+					200,
+					216
+				],
+				[
+					248,
+					136
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				226,
+				166
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				240,
+				48
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 6855,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				288,
+				112
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 7226,
+			"endTime": 7597,
+			"repeatCount": 2,
+			"pixelLength": 80,
+			"points": [
+				[
+					360,
+					80
+				],
+				[
+					392,
+					160
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				390,
+				154
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				360,
+				80
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 7967,
+			"endTime": 9819,
+			"repeatCount": 10,
+			"pixelLength": 80,
+			"points": [
+				[
+					312,
+					144
+				],
+				[
+					216,
+					184
+				]
+			],
+			"duration": 1852,
+			"curveType": "bezier",
+			"endPosition": [
+				238,
+				175
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				312,
+				144
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 10189,
+			"endTime": 10560,
+			"repeatCount": 2,
+			"pixelLength": 80,
+			"points": [
+				[
+					312,
+					224
+				],
+				[
+					352,
+					320
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				343,
+				298
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				312,
+				224
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 10929,
+			"endTime": 12781,
+			"repeatCount": 10,
+			"pixelLength": 80,
+			"points": [
+				[
+					264,
+					288
+				],
+				[
+					176,
+					320
+				]
+			],
+			"duration": 1852,
+			"curveType": "bezier",
+			"endPosition": [
+				189,
+				315
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"finish"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				264,
+				288
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 13152,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				337,
+				255
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 13707,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				418,
+				167
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 13892,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				418,
+				167
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 14263,
+			"endTime": 14634,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					368,
+					103
+				],
+				[
+					200,
+					103
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				208,
+				103
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				368,
+				103
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 15189,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				120,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 15374,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				120,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 15744,
+			"endTime": 16115,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					176,
+					248
+				],
+				[
+					344,
+					248
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				336,
+				248
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				176,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 16670,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				408,
+				152
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 16855,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				408,
+				152
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 17226,
+			"endTime": 17597,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					353,
+					93
+				],
+				[
+					177,
+					93
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				193,
+				93
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				353,
+				93
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 18152,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				262,
+				190
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 18337,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				262,
+				190
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 18707,
+			"endTime": 19078,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					341,
+					191
+				],
+				[
+					341,
+					375
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				341,
+				351
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				341,
+				191
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 19633,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				216,
+				352
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 19818,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				216,
+				352
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 20189,
+			"endTime": 20560,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					152,
+					303
+				],
+				[
+					152,
+					135
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				152,
+				143
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				152,
+				303
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 21115,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				256,
+				80
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 21300,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				256,
+				80
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 21670,
+			"endTime": 22041,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					323,
+					123
+				],
+				[
+					323,
+					291
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				323,
+				283
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				323,
+				123
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 22596,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				208,
+				320
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 22781,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				208,
+				320
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 23152,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"finish"
+			],
+			"position": [
+				147,
+				267
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 23522,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				210,
+				217
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 23892,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				149,
+				165
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 24263,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				208,
+				111
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 24633,
+			"endTime": 25745,
+			"repeatCount": 3,
+			"pixelLength": 160,
+			"points": [
+				[
+					152,
+					56
+				],
+				[
+					-16,
+					56
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				-7,
+				56
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"finish"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				152,
+				56
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 26115,
+			"endTime": 27227,
+			"repeatCount": 3,
+			"pixelLength": 160,
+			"points": [
+				[
+					30,
+					126
+				],
+				[
+					30,
+					302
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				30,
+				286
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				30,
+				126
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 27596,
+			"endTime": 28708,
+			"repeatCount": 3,
+			"pixelLength": 160,
+			"points": [
+				[
+					96,
+					241
+				],
+				[
+					272,
+					241
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				256,
+				241
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				96,
+				241
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 29078,
+			"endTime": 30190,
+			"repeatCount": 3,
+			"pixelLength": 160,
+			"points": [
+				[
+					208,
+					176
+				],
+				[
+					208,
+					8
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				208,
+				16
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				208,
+				176
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 30559,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				280,
+				40
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 30929,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				352,
+				72
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 31300,
+			"endTime": 31671,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					424,
+					104
+				],
+				[
+					424,
+					288
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				424,
+				264
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				424,
+				104
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 32041,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				344,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 32411,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				264,
+				232
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 32781,
+			"endTime": 33152,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					184,
+					208
+				],
+				[
+					184,
+					32
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				184,
+				48
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				184,
+				208
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 33522,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				256,
+				88
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 33892,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				256,
+				168
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 34263,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				256,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 34633,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				256,
+				328
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 35004,
+			"endTime": 36116,
+			"repeatCount": 3,
+			"pixelLength": 160,
+			"points": [
+				[
+					176,
+					328
+				],
+				[
+					256,
+					296
+				],
+				[
+					352,
+					336
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				332,
+				329
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				176,
+				328
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 36485,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"finish"
+			],
+			"position": [
+				332,
+				328
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 46855,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				64,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 47596,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				192,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 48337,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				320,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 49078,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				448,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 49818,
+			"endTime": 50559,
+			"repeatCount": 2,
+			"pixelLength": 160,
+			"points": [
+				[
+					352,
+					320
+				],
+				[
+					280,
+					256
+				],
+				[
+					168,
+					272
+				]
+			],
+			"duration": 741,
+			"curveType": "bezier",
+			"endPosition": [
+				205,
+				269
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"finish"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				320
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 50929,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				408,
+				264
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 51300,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				208
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 51670,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				408,
+				152
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 52041,
+			"endTime": 52412,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					352,
+					96
+				],
+				[
+					272,
+					48
+				],
+				[
+					192,
+					96
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				200,
+				91
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				96
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 52781,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				136,
+				136
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 53152,
+			"endTime": 53523,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					192,
+					192
+				],
+				[
+					368,
+					192
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				352,
+				192
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				192,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 53892,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				400,
+				256
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 54263,
+			"endTime": 55375,
+			"repeatCount": 3,
+			"pixelLength": 160,
+			"points": [
+				[
+					352,
+					320
+				],
+				[
+					176,
+					320
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				192,
+				320
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				320
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 55744,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				128,
+				272
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 56115,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				184,
+				216
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 56485,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				128,
+				160
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 56855,
+			"endTime": 58707,
+			"repeatCount": 10,
+			"pixelLength": 80,
+			"points": [
+				[
+					184,
+					104
+				],
+				[
+					280,
+					104
+				]
+			],
+			"duration": 1852,
+			"curveType": "bezier",
+			"endPosition": [
+				264,
+				104
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				184,
+				104
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 59078,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				184,
+				184
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 59263,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				184,
+				184
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 59448,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"whistle"
+			],
+			"position": [
+				184,
+				184
+			],
+			"additions": null
+		},
+		{
+			"objectName": "spinner",
+			"startTime": 59818,
+			"endTime": 61670,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"finish"
+			],
+			"position": [
+				256,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 62041,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				256,
+				48
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 62411,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				184,
+				88
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 62781,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				248,
+				136
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 63152,
+			"endTime": 63523,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					184,
+					184
+				],
+				[
+					232,
+					344
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				230,
+				337
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				184,
+				184
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 63892,
+			"endTime": 64263,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					304,
+					320
+				],
+				[
+					464,
+					264
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				455,
+				267
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				304,
+				320
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 64633,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"finish"
+			],
+			"position": [
+				455,
+				267
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 65004,
+			"endTime": 65375,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					392,
+					216
+				],
+				[
+					312,
+					160
+				],
+				[
+					352,
+					72
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				350,
+				77
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				392,
+				216
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 65744,
+			"endTime": 66856,
+			"repeatCount": 1,
+			"pixelLength": 480,
+			"points": [
+				[
+					424,
+					56
+				],
+				[
+					488,
+					144
+				],
+				[
+					472,
+					232
+				],
+				[
+					392,
+					312
+				],
+				[
+					296,
+					320
+				],
+				[
+					208,
+					288
+				],
+				[
+					184,
+					208
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				186,
+				213
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				424,
+				56
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 67226,
+			"endTime": 67597,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					120,
+					160
+				],
+				[
+					136,
+					248
+				],
+				[
+					72,
+					328
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				84,
+				312
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"finish"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				120,
+				160
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 67967,
+			"endTime": 68338,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					160,
+					312
+				],
+				[
+					344,
+					312
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				320,
+				312
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				160,
+				312
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 68707,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				400,
+				304
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 69078,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				400,
+				224
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 69448,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				400,
+				144
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 69818,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				400,
+				64
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 70189,
+			"endTime": 70560,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					400,
+					64
+				],
+				[
+					216,
+					64
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				240,
+				64
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"finish"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				400,
+				64
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 70929,
+			"endTime": 71300,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					192,
+					128
+				],
+				[
+					376,
+					128
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				352,
+				128
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"finish"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				192,
+				128
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 71670,
+			"endTime": 72782,
+			"repeatCount": 3,
+			"pixelLength": 160,
+			"points": [
+				[
+					312,
+					192
+				],
+				[
+					144,
+					192
+				]
+			],
+			"duration": 1112,
+			"curveType": "bezier",
+			"endPosition": [
+				152,
+				192
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"finish"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"finish",
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"finish"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				312,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 73152,
+			"endTime": 73523,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					112,
+					256
+				],
+				[
+					312,
+					256
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				272,
+				256
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"finish",
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"finish"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				112,
+				256
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 73892,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				352,
+				256
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 74078,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				256
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 74263,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				256
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 74633,
+			"endTime": 75004,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					352,
+					176
+				],
+				[
+					168,
+					176
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				192,
+				176
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				176
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 75374,
+			"endTime": 75745,
+			"repeatCount": 2,
+			"pixelLength": 80,
+			"points": [
+				[
+					112,
+					176
+				],
+				[
+					112,
+					264
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				112,
+				256
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				112,
+				176
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 76115,
+			"endTime": 76486,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					112,
+					96
+				],
+				[
+					296,
+					96
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				272,
+				96
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				112,
+				96
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 76855,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				352,
+				96
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 77041,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				96
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 77226,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				96
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 77596,
+			"endTime": 77967,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					432,
+					96
+				],
+				[
+					432,
+					272
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				432,
+				256
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				432,
+				96
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 78337,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				352,
+				256
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 78522,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				256
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 78707,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				256
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 79078,
+			"endTime": 79449,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					272,
+					256
+				],
+				[
+					80,
+					256
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				112,
+				256
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				272,
+				256
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 79818,
+			"endTime": 80189,
+			"repeatCount": 2,
+			"pixelLength": 80,
+			"points": [
+				[
+					112,
+					176
+				],
+				[
+					112,
+					88
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				112,
+				96
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				112,
+				176
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 80559,
+			"endTime": 80930,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					192,
+					176
+				],
+				[
+					360,
+					176
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				352,
+				176
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				192,
+				176
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 81300,
+			"endTime": 81671,
+			"repeatCount": 2,
+			"pixelLength": 80,
+			"points": [
+				[
+					432,
+					176
+				],
+				[
+					432,
+					72
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				432,
+				96
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				432,
+				176
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 82041,
+			"endTime": 82412,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					352,
+					176
+				],
+				[
+					176,
+					176
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				192,
+				176
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				352,
+				176
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 82781,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				160,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 82967,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				160,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 83152,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				160,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 83522,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				240,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 83892,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				240,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 84263,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				320,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 84448,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				320,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 84633,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				320,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 85004,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				400,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 85374,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"finish"
+			],
+			"position": [
+				400,
+				248
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 97226,
+			"endTime": 97597,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					64,
+					136
+				],
+				[
+					96,
+					40
+				],
+				[
+					216,
+					56
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				187,
+				54
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle",
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				64,
+				136
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 97781,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				192,
+				120
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 97967,
+			"endTime": 98338,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					192,
+					184
+				],
+				[
+					192,
+					288
+				],
+				[
+					288,
+					312
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				274,
+				308
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle",
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				192,
+				184
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 98522,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				336,
+				320
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 98707,
+			"endTime": 99078,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					376,
+					272
+				],
+				[
+					432,
+					200
+				],
+				[
+					400,
+					96
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				406,
+				120
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				376,
+				272
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 99448,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				280,
+				128
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 99818,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"whistle",
+				"clap"
+			],
+			"position": [
+				152,
+				136
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 100189,
+			"endTime": 100560,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					160,
+					264
+				],
+				[
+					256,
+					240
+				],
+				[
+					272,
+					136
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				268,
+				157
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle",
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"whistle",
+				"clap"
+			],
+			"position": [
+				160,
+				264
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 100744,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				280,
+				96
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 100929,
+			"endTime": 101300,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					344,
+					72
+				],
+				[
+					384,
+					168
+				],
+				[
+					416,
+					232
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				409,
+				218
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"whistle",
+				"clap"
+			],
+			"position": [
+				344,
+				72
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 101670,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"whistle"
+			],
+			"position": [
+				312,
+				304
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 102041,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"clap"
+			],
+			"position": [
+				224,
+				216
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 102411,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"whistle"
+			],
+			"position": [
+				120,
+				288
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 102781,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"whistle",
+				"clap"
+			],
+			"position": [
+				64,
+				176
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 103152,
+			"endTime": 103523,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					160,
+					88
+				],
+				[
+					264,
+					88
+				],
+				[
+					304,
+					200
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				289,
+				167
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle",
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": true,
+			"soundTypes": [
+				"whistle",
+				"clap"
+			],
+			"position": [
+				160,
+				88
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 103707,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				320,
+				224
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 103892,
+			"endTime": 104263,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					272,
+					264
+				],
+				[
+					208,
+					336
+				],
+				[
+					88,
+					304
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				126,
+				312
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"whistle"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle",
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"whistle",
+				"clap"
+			],
+			"position": [
+				272,
+				264
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 104633,
+			"endTime": 105004,
+			"repeatCount": 1,
+			"pixelLength": 160,
+			"points": [
+				[
+					64,
+					200
+				],
+				[
+					256,
+					200
+				]
+			],
+			"duration": 371,
+			"curveType": "bezier",
+			"endPosition": [
+				224,
+				200
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle",
+						"clap"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				64,
+				200
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 105374,
+			"endTime": 106115,
+			"repeatCount": 2,
+			"pixelLength": 160,
+			"points": [
+				[
+					296,
+					88
+				],
+				[
+					112,
+					88
+				]
+			],
+			"duration": 741,
+			"curveType": "bezier",
+			"endPosition": [
+				136,
+				88
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"whistle",
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				296,
+				88
+			],
+			"additions": null
+		},
+		{
+			"objectName": "slider",
+			"startTime": 106485,
+			"endTime": 106671,
+			"repeatCount": 1,
+			"pixelLength": 80,
+			"points": [
+				[
+					368,
+					192
+				],
+				[
+					256,
+					192
+				]
+			],
+			"duration": 186,
+			"curveType": "bezier",
+			"endPosition": [
+				288,
+				192
+			],
+			"edges": [
+				{
+					"soundTypes": [
+						"whistle",
+						"clap"
+					],
+					"addictions": null
+				},
+				{
+					"soundTypes": [
+						"normal"
+					],
+					"addictions": null
+				}
+			],
+			"newCombo": false,
+			"soundTypes": [
+				"normal"
+			],
+			"position": [
+				368,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "circle",
+			"startTime": 106855,
+			"endTime": 0,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": false,
+			"soundTypes": [
+				"whistle"
+			],
+			"position": [
+				288,
+				192
+			],
+			"additions": null
+		},
+		{
+			"objectName": "spinner",
+			"startTime": 107226,
+			"endTime": 109078,
+			"repeatCount": 0,
+			"pixelLength": 0,
+			"points": null,
+			"duration": 0,
+			"curveType": "",
+			"endPosition": [
+				0,
+				0
+			],
+			"edges": [],
+			"newCombo": true,
+			"soundTypes": [
+				"finish"
+			],
+			"position": [
+				256,
+				192
+			],
+			"additions": null
+		}
+	],
+	"breakTimes": [
+		{
+			"startTime": 36685,
+			"endTime": 45535
+		},
+		{
+			"startTime": 85574,
+			"endTime": 95906
+		}
+	],
+	"OtherAttributes": {
+		"Combo1": "0,0,0",
+		"Combo2": "255,255,255",
+		"Combo3": "196,0,196",
+		"Combo4": "125,0,63",
+		"EditorBookmarks": "18420"
+	}
+}

@@ -30,14 +30,14 @@ func (b *Beatmap) computeMaxCombo() {
 	)
 	var (
 		curTp TimingPoint
-		nxOff = 0
+		nxOff = 0.0
 		i     = 0
 	)
 	for _, h := range b.HitObjects {
-		if h.StartTime >= nxOff {
+		if float64(h.StartTime) >= nxOff {
 			curTp = b.TimingPoints[i]
 			i++
-			nxOff = math.MaxInt64
+			nxOff = math.MaxFloat64
 			if len(b.TimingPoints) > i {
 				nxOff = b.TimingPoints[1].Offset
 			}
