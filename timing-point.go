@@ -9,16 +9,16 @@ import (
 
 // TimingPoint is an osu! timing point.
 type TimingPoint struct {
-	Offset            int
-	BeatLength        float64
-	Velocity          float64
-	Bpm               float64
-	TimingSignature   int
-	SampleSetID       int
-	CustomSampleIndex int
-	SampleVolume      int
-	TimingChange      bool
-	KiaiTimeActive    bool
+	Offset            int     `json:"offset"`
+	BeatLength        float64 `json:"beatLength"`
+	Velocity          float64 `json:"velocity"`
+	Bpm               float64 `json:"bpm"`
+	TimingSignature   int     `json:"timingSignature"`
+	SampleSetID       int     `json:"sampleSetID"`
+	CustomSampleIndex int     `json:"customSampleIndex"`
+	SampleVolume      int     `json:"sampleVolume"`
+	TimingChange      bool    `json:"timingChange"`
+	KiaiTimeActive    bool    `json:"kiaiTimeActive"`
 }
 
 type timingPointSorter []TimingPoint

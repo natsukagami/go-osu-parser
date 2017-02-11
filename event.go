@@ -9,8 +9,8 @@ import (
 
 // BreakTime represents a beatmap's breaktime
 type BreakTime struct {
-	StartTime int
-	EndTime   int
+	StartTime int `json:"startTime"`
+	EndTime   int `json:"endTime"`
 }
 
 type breakTimeSorter []BreakTime

@@ -1,11 +1,20 @@
 package parser
 
-import "strconv"
+import (
+	"fmt"
+	"strconv"
+)
 
 // Point represents a point on the screen
 type Point struct {
 	X float64
 	Y float64
+}
+
+// MarshalJSON parses Point as a 2-member array in JSON
+func (p Point) MarshalJSON() (b []byte, err error) {
+	b = []byte(fmt.Sprintf("[%v,%v]", p.X, p.Y))
+	return
 }
 
 func parsePoint(x, y string) (p Point, err error) {

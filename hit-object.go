@@ -16,20 +16,20 @@ var curveTypes = map[string]string{
 
 // HitObject represents an osu! hit object.
 type HitObject struct {
-	ObjectName  string // "slider", "spinner", "circle"
-	StartTime   int
-	EndTime     int     // Spinner only
-	RepeatCount int     // Sliders only
-	PixelLength float64 // Sliders only
-	Points      []Point // Sliders only
-	Duration    int     // Sliders only
-	CurveType   string  // Sliders only, "catmull", "bezier", "linear", "pass-through"
-	EndPosition Point   // Sliders only
-	Edges       []Edge
-	NewCombo    bool
-	SoundTypes  []string // contains "whistle", "finish", "clap", "normal"
-	Position    Point
-	Additions   *Addition
+	ObjectName  string    `json:"objectName"` // "slider", "spinner", "circle"
+	StartTime   int       `json:"startTime"`
+	EndTime     int       `json:"endTime"`     // Spinner only
+	RepeatCount int       `json:"repeatCount"` // Sliders only
+	PixelLength float64   `json:"pixelLength"` // Sliders only
+	Points      []Point   `json:"points"`      // Sliders only
+	Duration    int       `json:"duration"`    // Sliders only
+	CurveType   string    `json:"curveType"`   // Sliders only, "catmull", "bezier", "linear", "pass-through"
+	EndPosition Point     `json:"endPosition"` // Sliders only
+	Edges       []Edge    `json:"edges"`
+	NewCombo    bool      `json:"newCombo"`
+	SoundTypes  []string  `json:"soundTypes"` // contains "whistle", "finish", "clap", "normal"
+	Position    Point     `json:"position"`
+	Additions   *Addition `json:"additions"`
 }
 
 type hitObjectSorter []HitObject
@@ -44,8 +44,8 @@ func sortHitObjects(b []HitObject) {
 
 // Edge represents a slider edge.
 type Edge struct {
-	SoundTypes []string
-	Additions  *Addition
+	SoundTypes []string  `json:"soundTypes"`
+	Additions  *Addition `json:"addictions"`
 }
 
 // Gets sound types
@@ -188,7 +188,7 @@ func (b *Beatmap) parseHitObject(line string) (err error) {
 				}
 				edge.SoundTypes = parseSoundType(sound)
 			} else {
-				edge.SoundTypes = []string{"Normal"}
+				edge.SoundTypes = []string{"normal"}
 			}
 			h.Edges = append(h.Edges, edge)
 		}

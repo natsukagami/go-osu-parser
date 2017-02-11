@@ -16,8 +16,10 @@ func runTest(num int) func(t *testing.T) {
 		}
 		if bytes, err := json.MarshalIndent(b, "", "\t"); err != nil {
 			t.Error(err)
-		} else if err := ioutil.WriteFile(fmt.Sprintf("testfiles/v%0d_out.json", num), bytes, 0644); err != nil {
+		} else if ans, err := ioutil.ReadFile(fmt.Sprintf("testfiles/v%d_out.json", num)); err != nil {
 			t.Error(err)
+		} else if string(bytes) != string(ans) {
+			t.Errorf("Test v%d: Output are not the same", num)
 		}
 	}
 }

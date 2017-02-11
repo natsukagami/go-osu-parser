@@ -7,11 +7,11 @@ import (
 
 // Addition represents additional attributes of a hit object.
 type Addition struct {
-	Sample            string // "normal", "soft", "drum"
-	AdditionalSample  string // "normal", "soft", "drum"
-	CustomSampleIndex int
-	HitsoundVolume    int
-	Hitsound          string
+	Sample            string `json:"sample"`           // "normal", "soft", "drum"
+	AdditionalSample  string `json:"additionalSample"` // "normal", "soft", "drum"
+	CustomSampleIndex int    `json:"customSampleIndex"`
+	HitsoundVolume    int    `json:"hitSoundVolume"`
+	Hitsound          string `json:"hitSound"`
 }
 
 // Parse additional members

@@ -1,6 +1,11 @@
 // Package parser provides an .osu beatmap parser.
 // The parser output is made for maximum compability with the Node.js
 // implementation which can be found at https://github.com/nojhamster/osu-parser.
+// The output JSON has basically the same attributes with the Node.js implementation,
+// however there are key differences:
+//  - Empty additions are presented as null instead of an empty struct.
+//  - Unlisted properties (in Beatmap object) are stored in a struct under "OtherAttributes",
+//  some notable properties are "ComboX" and some other color properties.
 package parser
 
 import (
