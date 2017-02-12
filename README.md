@@ -1,5 +1,6 @@
 go-osu-parser
 =============
+[![Build Status](https://travis-ci.org/natsukagami/go-osu-parser.svg?branch=master)](https://travis-ci.org/natsukagami/go-osu-parser)
 [![GoDocs Reference](https://img.shields.io/badge/docs-GoDoc-red.svg)](https://godoc.org/github.com/natsukagami/go-osu-parser)
 
 A parser for **Golang** that converts .osu files into Golang objects (and an almost [Node.js osu-parser](https://github.com/nojhamster/osu-parser) compatible JSON). Feel free to give it a try and **post issues** to help me improve it ;)
