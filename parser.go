@@ -117,19 +117,19 @@ func (b *beatmapParser) ReadLine(line string) (err error) {
 					return
 				}
 			case "CircleSize":
-				if b.CircleSize, err = strconv.Atoi(match[2]); err != nil {
+				if b.CircleSize, err = strconv.ParseFloat(match[2], 64); err != nil {
 					return
 				}
 			case "HPDrainRate":
-				if b.HPDrainRate, err = strconv.Atoi(match[2]); err != nil {
+				if b.HPDrainRate, err = strconv.ParseFloat(match[2], 64); err != nil {
 					return
 				}
 			case "OverallDifficulty":
-				if b.OverallDifficulty, err = strconv.Atoi(match[2]); err != nil {
+				if b.OverallDifficulty, err = strconv.ParseFloat(match[2], 64); err != nil {
 					return
 				}
 			case "ApproachRate":
-				if b.ApproachRate, err = strconv.Atoi(match[2]); err != nil {
+				if b.ApproachRate, err = strconv.ParseFloat(match[2], 64); err != nil {
 					return
 				}
 			default:

@@ -29,10 +29,10 @@ type Beatmap struct {
 	GridSize          int
 	LetterboxInBreaks bool
 	PreviewTime       int
-	CircleSize        int
-	HPDrainRate       int
-	OverallDifficulty int
-	ApproachRate      int
+	CircleSize        float64
+	HPDrainRate       float64
+	OverallDifficulty float64
+	ApproachRate      float64
 	// Beatmap information
 	NbCircles        int     `json:"nbCircles"`
 	NbSliders        int     `json:"nbSliders"`
