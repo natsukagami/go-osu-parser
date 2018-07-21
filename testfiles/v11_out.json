@@ -17,7 +17,7 @@
 	"Version": "Insane",
 	"BeatmapID": 208927,
 	"BeatmapSetID": 73333,
-	"fileFormat": "v11",
+	"fileFormat": 11,
 	"Mode": 0,
 	"AudioLeadIn": 0,
 	"SampleSet": "Normal",

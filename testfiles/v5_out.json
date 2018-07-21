@@ -12,7 +12,7 @@
 	"Version": "Easy",
 	"BeatmapID": 0,
 	"BeatmapSetID": 0,
-	"fileFormat": "v5",
+	"fileFormat": 5,
 	"Mode": 0,
 	"AudioLeadIn": 1007,
 	"SampleSet": "Soft",

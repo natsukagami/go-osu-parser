@@ -12,7 +12,7 @@
 	"Version": "Hard",
 	"BeatmapID": 0,
 	"BeatmapSetID": 0,
-	"fileFormat": "v8",
+	"fileFormat": 8,
 	"Mode": 0,
 	"AudioLeadIn": 1500,
 	"SampleSet": "Soft",

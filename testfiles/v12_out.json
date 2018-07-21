@@ -19,7 +19,7 @@
 	"Version": "Time",
 	"BeatmapID": 263368,
 	"BeatmapSetID": 98842,
-	"fileFormat": "v12",
+	"fileFormat": 12,
 	"Mode": 0,
 	"AudioLeadIn": 0,
 	"SampleSet": "Soft",

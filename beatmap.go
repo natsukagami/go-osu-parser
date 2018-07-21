@@ -17,7 +17,7 @@ type Beatmap struct {
 	Version           string
 	BeatmapID         int
 	BeatmapSetID      int
-	FileFormat        string `json:"fileFormat"`
+	FileFormat        int `json:"fileFormat"`
 	Mode              int
 	AudioLeadIn       int
 	SampleSet         string

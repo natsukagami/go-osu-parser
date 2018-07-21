@@ -37,9 +37,9 @@ func (b *beatmapParser) ReadLine(line string) (err error) {
 		b.EventLines = append(b.EventLines, line)
 	default:
 		if b.OsuSection == "" {
-			fmtRegex := regexp.MustCompile("^osu file format (v[0-9]+)$")
+			fmtRegex := regexp.MustCompile(`osu file format v(\d+)$`)
 			if match := fmtRegex.FindStringSubmatch(line); match != nil {
-				b.FileFormat = match[1]
+				b.FileFormat, _ = strconv.Atoi(match[1])
 				return
 			}
 		}
@@ -79,7 +79,7 @@ func (b *beatmapParser) ReadLine(line string) (err error) {
 					return
 				}
 			case "FileFormat":
-				b.FileFormat = match[2]
+				b.FileFormat, _ = strconv.Atoi(match[2])
 			case "Mode":
 				if b.Mode, err = strconv.Atoi(match[2]); err != nil {
 					return

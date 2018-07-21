@@ -14,7 +14,7 @@
 	"Version": "Another",
 	"BeatmapID": 0,
 	"BeatmapSetID": 0,
-	"fileFormat": "v9",
+	"fileFormat": 9,
 	"Mode": 0,
 	"AudioLeadIn": 0,
 	"SampleSet": "Soft",

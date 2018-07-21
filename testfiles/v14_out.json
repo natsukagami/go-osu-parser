@@ -20,7 +20,7 @@
 	"Version": "Insane",
 	"BeatmapID": 0,
 	"BeatmapSetID": 1,
-	"fileFormat": "v14",
+	"fileFormat": 14,
 	"Mode": 0,
 	"AudioLeadIn": 3575,
 	"SampleSet": "Soft",

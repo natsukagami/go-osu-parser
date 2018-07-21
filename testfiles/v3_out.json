@@ -10,7 +10,7 @@
 	"Version": "Easy/Normal",
 	"BeatmapID": 0,
 	"BeatmapSetID": 0,
-	"fileFormat": "v3",
+	"fileFormat": 3,
 	"Mode": 0,
 	"AudioLeadIn": 0,
 	"SampleSet": "Normal",

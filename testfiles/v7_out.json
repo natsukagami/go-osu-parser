@@ -15,7 +15,7 @@
 	"Version": "Hard",
 	"BeatmapID": 0,
 	"BeatmapSetID": 0,
-	"fileFormat": "v7",
+	"fileFormat": 7,
 	"Mode": 0,
 	"AudioLeadIn": 0,
 	"SampleSet": "Soft",
